@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Catalogo_v1</string>
+    <string name="dica_descricao">Digite uma descricão</string>
+    <string name="rotulo_descricao">Descrição</string>
+    <string name="rotulo_preco">Preço</string>
+    <string name="rotulo_data_entrada_estoque">Data entrada no estoque</string>
+    <string name="rotulo_disponivel">Disponível</string>
+</resources>
